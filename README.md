@@ -571,6 +571,9 @@ Part of the [Vatix Protocol](https://github.com/vatix-protocol)
 <!-- handsoff-issue-962 -->
 - #962: End-to-end localnet market lifecycle proof
 
+<!-- handsoff-issue-874 -->
+- #874: ADR-002 protocol-wide collateral enforced
+
 <!-- handsoff-issue-871 -->
 - #871: Resolution: unauthorized finalize no state change
 
@@ -582,3 +585,12 @@ Part of the [Vatix Protocol](https://github.com/vatix-protocol)
 
 <!-- handsoff-issue-879 -->
 - #879: CEI audit findings remediated
+
+<!-- handsoff-issue-848 -->
+- #848: Market: create with metadata URI validation/caps
+
+<!-- handsoff-issue-878 -->
+- #878: Storage migration rollback procedures
+
+<!-- handsoff-issue-890 -->
+- #890: Collect fee callback fully implemented
